@@ -3,4 +3,5 @@ hi test central repo to local
 hit test from local to central
 
 -----------------hello-----05012020---from central ---------
+-----------------hello-----05012020---from local---------
 
